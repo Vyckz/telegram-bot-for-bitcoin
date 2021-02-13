@@ -31,7 +31,7 @@ First Join Channel :
 
 # 🤩 Price 🤩
 
-* version 2 only  10 $  [Click2Buy](https://t.me/adamcoder)
+* version 2 only  50 $  [Click2Buy](https://t.me/adamcoder)
 
 ```diff
 - I will block people who will chat unnecessarily. I'm sorry but I don't have time for you. This is just a shopping profile
