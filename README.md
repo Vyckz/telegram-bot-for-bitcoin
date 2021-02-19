@@ -44,6 +44,7 @@ First Join Channel :
 # More
 * Earn #Bitcoin
 , #Litecoin, #Dogecoin #BCH #ZEC ~$50 Per Day! New Method - Pdf link : [http://bit.ly/3q1ACec](http://bit.ly/3q1ACec)
+* [New Method](https://github.com/yuceltoluyag/faucetcrypto) 
 
 
 
