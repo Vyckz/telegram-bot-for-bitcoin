@@ -29,13 +29,16 @@ First Join Channel :
 * 💉 Multi Account ;D
 * 🩸  %100 doing task ;)
 
-# 🤩 Price 🤩
+# 🤩 Free Until 🤩
 
-* version 2 only  50 $  [Click2Buy](https://t.me/adamcoder)
+* Free until
 
 ```diff
-- I will block people who will chat unnecessarily. I'm sorry but I don't have time for you. This is just a shopping profile
+- Free until, fulfill the conditions, fill out the form, download the program for free.
 ```
+
+# * [Go to Raffle](https://github.com/yuceltoluyag/telegram-bot-for-bitcoin/blob/main/raffle.md)
+
 
 # Wallet
 * Which wallet do I use?
@@ -44,7 +47,7 @@ First Join Channel :
 # More
 * Earn #Bitcoin
 , #Litecoin, #Dogecoin #BCH #ZEC ~$50 Per Day! New Method - Pdf link : [http://bit.ly/3q1ACec](http://bit.ly/3q1ACec)
-* [New Method](https://github.com/yuceltoluyag/faucetcrypto) 
+* [New Method](https://github.com/yuceltoluyag/faucetcrypto)
 
 
 
