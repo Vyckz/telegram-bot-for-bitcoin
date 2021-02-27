@@ -6,7 +6,7 @@
    * [Make More Money](https://github.com/yuceltoluyag/telegram-bot-for-bitcoin#wallet)
    * [Join Chat](https://github.com/yuceltoluyag/telegram-bot-for-bitcoin#telegram-groups)
    - join our telegram channel for more updates
- * [Versiyon 2(paid Version)](https://github.com/yuceltoluyag/telegram-bot-for-bitcoin#version-2)
+ * [Versiyon 2(Free Until)](https://github.com/yuceltoluyag/telegram-bot-for-bitcoin#version-2)
 
 
 
