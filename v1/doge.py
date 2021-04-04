@@ -224,7 +224,7 @@ try:
                 bot='Dogecoin_click_bot', peer='Dogecoin_click_bot', start_param='Yz90y'
             )
         )
-        await PROFILER.send_message('Dogecoin_click_bot', '/bots')
+        await PROFILER.send_message('Dogecoin_click_bot', '/visit')
 
         async def EVENTER(event):
             event.original_update = event.original_update
@@ -395,7 +395,7 @@ try:
             elif DETECT.find('click') > 0:
                 ScreenMessage(Fore.RED + "I'm Going To sleep now")
                 time.sleep(120)
-                await PROFILER.send_message('Dogecoin_click_bot', '/bots')
+                await PROFILER.send_message('Dogecoin_click_bot', '/visit')
 
         PROFILER.add_event_handler(
             SWITCH,
